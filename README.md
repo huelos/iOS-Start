@@ -209,7 +209,7 @@
 
 ## 贡献者
 
-点击[该链接](https://github.com/Aufree/trip-to-iOS/graphs/contributors)查看该项目的所有贡献者
+点击[该链接](https://github.com/huelos/iOS-Start/graphs/contributors)查看该项目的所有贡献者
 
 ## License
 
